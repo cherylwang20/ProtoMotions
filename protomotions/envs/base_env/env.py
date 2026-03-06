@@ -390,6 +390,7 @@ class BaseEnv:
             if not self.skip_height_correction:
                 if ref_state is not None:
                     rigid_body_pos = ref_state.rigid_body_pos[non_scene_mask].clone()
+                    lowest_ref_z, _ = torch.min(rigid_body_pos[..., 2], dim=1)
                     rigid_body_pos_spawned = rigid_body_pos + respawn_offset[
                         non_scene_mask
                     ].unsqueeze(1)
@@ -399,7 +400,12 @@ class BaseEnv:
                 terrain_heights = self.terrain.find_terrain_height_for_max_below_body(
                     rigid_body_pos_spawned
                 )
-                respawn_offset[non_scene_mask, 2] = terrain_heights
+                if ref_state is not None:
+                    # Subtract the reference's current height so we 'zero' it out before adding terrain height
+                    ref_height = ref_state.root_pos[non_scene_mask, 2]
+                    respawn_offset[non_scene_mask, 2] = terrain_heights - lowest_ref_z
+                else:
+                    respawn_offset[non_scene_mask, 2] = terrain_heights
 
         respawn_offset[:, 2] += self.config.ref_respawn_offset
 
@@ -576,7 +582,9 @@ class BaseEnv:
         if self.state_history is not None:
             current_state = self.simulator.get_robot_state()
             current_actions = self.simulator.get_current_actions()
-            ground_heights = self.terrain.get_ground_heights(current_state.rigid_body_pos[:, 0]).squeeze(-1)
+            pts = current_state.rigid_body_pos[:, [0, 3, 4, 7, 8]]
+            ground_heights = self.terrain.get_ground_heights(pts.reshape(-1, 3)).reshape(-1, 5).clone()
+
             body_contacts = current_state.rigid_body_contacts[:, self.contact_body_ids].bool()
             
             # Compute noisy versions if observation noise is configured and history stores noisy data
@@ -722,9 +730,8 @@ class BaseEnv:
         """
         current_state = self.simulator.get_robot_state()
         
-        ground_heights = self.terrain.get_ground_heights(
-            current_state.rigid_body_pos[:, 0]
-        )
+        pts = current_state.rigid_body_pos[:, [0, 3, 4, 7, 8]]
+        ground_heights = self.terrain.get_ground_heights(pts.reshape(-1, 3)).reshape(-1, 5).clone()
         
         body_contacts = current_state.rigid_body_contacts[
             :, self.contact_body_ids
@@ -1149,9 +1156,9 @@ class BaseEnv:
         # Default reset: repeat current simulator state to all buffer slots
         if len(default_env_ids) > 0:
             current_state = self.simulator.get_robot_state()
-            ground_heights = self.terrain.get_ground_heights(
-                current_state.rigid_body_pos[default_env_ids, 0]
-            ).squeeze(-1)
+            pts = current_state.rigid_body_pos[:, [0, 3, 4, 7, 8]]
+            ground_heights = self.terrain.get_ground_heights(pts.reshape(-1, 3)).reshape(-1, 5).clone()
+
             body_contacts = current_state.rigid_body_contacts[default_env_ids][:, self.contact_body_ids].bool()
             self.state_history.reset_from_single_state(
                 env_ids=default_env_ids,

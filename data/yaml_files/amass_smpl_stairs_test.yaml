@@ -1,0 +1,6457 @@
+motions:
+- file: ACCAD/Female1Running_c3d/C11____run_turn_left__90__poses.motion
+  fps: 30.0
+  idx: 0
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3333333333333335
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C13____run_turn_left__135__poses.motion
+  fps: 30.0
+  idx: 1
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8666666666666667
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C14____run_turn_right___90__poses.motion
+  fps: 30.0
+  idx: 2
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.266666666666667
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C15____run_turn_right___45__poses.motion
+  fps: 30.0
+  idx: 3
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.1333333333333333
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C16____run_turn_right___135__poses.motion
+  fps: 30.0
+  idx: 4
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3666666666666667
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C19____run_to_hop_to_walk_poses.motion
+  fps: 30.0
+  idx: 5
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.233333333333333
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C20____run_to_jump_to_walk_poses.motion
+  fps: 30.0
+  idx: 6
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.0
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C21____run_to_pick_up_box_poses.motion
+  fps: 30.0
+  idx: 7
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.833333333333333
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C21_s2____run_to_pick_up_box_poses.motion
+  fps: 30.0
+  idx: 8
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.566666666666667
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C22____run_with_box_poses.motion
+  fps: 30.0
+  idx: 9
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.0
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C26____run_to_crouch_poses.motion
+  fps: 30.0
+  idx: 10
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C27___crouch_to_run1_poses.motion
+  fps: 30.0
+  idx: 11
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2333333333333334
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C2___Run_to_stand_poses.motion
+  fps: 30.0
+  idx: 12
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.333333333333333
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C3___Run_poses.motion
+  fps: 30.0
+  idx: 13
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.7
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C4___Run_to_walk1_poses.motion
+  fps: 30.0
+  idx: 14
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.533333333333333
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C5___walk_to_run_poses.motion
+  fps: 30.0
+  idx: 15
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.433333333333334
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C6___stand_to_run_backwards_poses.motion
+  fps: 30.0
+  idx: 16
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.5
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C7____run_backwards_poses.motion
+  fps: 30.0
+  idx: 17
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C8____run_backwards_to_stand_poses.motion
+  fps: 30.0
+  idx: 18
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.433333333333334
+  weight: 1.0
+- file: ACCAD/Female1Running_c3d/C9____run_backwards_turn_run_forward_poses.motion
+  fps: 30.0
+  idx: 19
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B10___walk_turn_left__45__poses.motion
+  fps: 30.0
+  idx: 20
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.933333333333334
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B11___walk_turn_left__135__poses.motion
+  fps: 30.0
+  idx: 21
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.366666666666667
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B12___walk_turn_right__90__poses.motion
+  fps: 30.0
+  idx: 22
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.766666666666667
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B13___walk_turn_right__45__poses.motion
+  fps: 30.0
+  idx: 23
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.333333333333334
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B14___walk_turn_right__135__poses.motion
+  fps: 30.0
+  idx: 24
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.966666666666667
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B16___walk_turn_change_direction_poses.motion
+  fps: 30.0
+  idx: 25
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.033333333333333
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B17___walk_to_hop_to_walk1_poses.motion
+  fps: 30.0
+  idx: 26
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.3
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B18___walk_to_leap_to_walk_poses.motion
+  fps: 30.0
+  idx: 27
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.7
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B19___walk_to_pick_up_box_poses.motion
+  fps: 30.0
+  idx: 28
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.933333333333334
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B1___stand_to_walk_poses.motion
+  fps: 30.0
+  idx: 29
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.233333333333333
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B20___walk_with_box_poses.motion
+  fps: 30.0
+  idx: 30
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B21___put_down_box_to_walk_poses.motion
+  fps: 30.0
+  idx: 31
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.433333333333334
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B21_s2___put_down_box_to_walk_poses.motion
+  fps: 30.0
+  idx: 32
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.5
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B21_s3___put_down_box_to_walk_poses.motion
+  fps: 30.0
+  idx: 33
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.766666666666667
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B24___walk_to_crouch_poses.motion
+  fps: 30.0
+  idx: 34
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.1
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B25___crouch_to_walk1_poses.motion
+  fps: 30.0
+  idx: 35
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.933333333333334
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B27__skip_to_walk1_poses.motion
+  fps: 30.0
+  idx: 36
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.733333333333333
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B2___walk_to_stand_poses.motion
+  fps: 30.0
+  idx: 37
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.7
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B2___walk_to_stand_t2_poses.motion
+  fps: 30.0
+  idx: 38
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.9
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B3___walk1_poses.motion
+  fps: 30.0
+  idx: 39
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.633333333333334
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B4___stand_to_walk_back_poses.motion
+  fps: 30.0
+  idx: 40
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.566666666666666
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B5___walk_backwards_poses.motion
+  fps: 30.0
+  idx: 41
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.533333333333333
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B6___walk_backwards_to_stand_poses.motion
+  fps: 30.0
+  idx: 42
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.2
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B7___walk_backwards_turn_forwards_poses.motion
+  fps: 30.0
+  idx: 43
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.666666666666666
+  weight: 1.0
+- file: ACCAD/Female1Walking_c3d/B9___walk_turn_left__90__poses.motion
+  fps: 30.0
+  idx: 44
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.1
+  weight: 1.0
+- file: ACCAD/Male1Running_c3d/Run_C24___quick_side_step_left_poses.motion
+  fps: 30.0
+  idx: 45
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.966666666666667
+  weight: 1.0
+- file: ACCAD/Male1Running_c3d/Run_C25___quick_side_step_right_poses.motion
+  fps: 30.0
+  idx: 46
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.3333333333333335
+  weight: 1.0
+- file: ACCAD/Male1Walking_c3d/Walk_B10___Walk_turn_left_45_poses.motion
+  fps: 30.0
+  idx: 47
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.433333333333334
+  weight: 1.0
+- file: ACCAD/Male1Walking_c3d/Walk_B13___Walk_turn_right_45_poses.motion
+  fps: 30.0
+  idx: 48
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.3
+  weight: 1.0
+- file: ACCAD/Male1Walking_c3d/Walk_B16___Walk_turn_change_poses.motion
+  fps: 30.0
+  idx: 49
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.133333333333333
+  weight: 1.0
+- file: ACCAD/Male1Walking_c3d/Walk_B17___Walk_2_hop_2_walk_poses.motion
+  fps: 30.0
+  idx: 50
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.166666666666666
+  weight: 1.0
+- file: ACCAD/Male1Walking_c3d/Walk_B21___Put_Down_Box_to_walk_poses.motion
+  fps: 30.0
+  idx: 51
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.966666666666667
+  weight: 1.0
+- file: ACCAD/Male1Walking_c3d/Walk_B4___Stand_to_Walk_Back_poses.motion
+  fps: 30.0
+  idx: 52
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.966666666666667
+  weight: 1.0
+- file: ACCAD/Male2MartialArtsStances_c3d/D2___walk_to_ready_poses.motion
+  fps: 30.0
+  idx: 53
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.4
+  weight: 1.0
+- file: ACCAD/Male2MartialArtsStances_c3d/D3___run_to_ready_poses.motion
+  fps: 30.0
+  idx: 54
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.6666666666666665
+  weight: 1.0
+- file: ACCAD/Male2MartialArtsStances_c3d/D5___ready_to_walk_away_poses.motion
+  fps: 30.0
+  idx: 55
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.466666666666667
+  weight: 1.0
+- file: ACCAD/Male2MartialArtsStances_c3d/D7___walk_to_bow_poses.motion
+  fps: 30.0
+  idx: 56
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.1
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C11___run_turn_left_90_poses.motion
+  fps: 30.0
+  idx: 57
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8333333333333335
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C12___run_turn_left_45_poses.motion
+  fps: 30.0
+  idx: 58
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.2
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C13___run_turn_left_135_poses.motion
+  fps: 30.0
+  idx: 59
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C14___run_turn_right_90_poses.motion
+  fps: 30.0
+  idx: 60
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C15___run_turn_right_45_poses.motion
+  fps: 30.0
+  idx: 61
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1333333333333333
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C16___run_turn_right_135_poses.motion
+  fps: 30.0
+  idx: 62
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1666666666666665
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C17___run_change_direction_poses.motion
+  fps: 30.0
+  idx: 63
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.066666666666667
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C18___run_to_hop_to_walk_poses.motion
+  fps: 30.0
+  idx: 64
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.533333333333333
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C19___run_to_jump_to_walk_poses.motion
+  fps: 30.0
+  idx: 65
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.566666666666667
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C1___stand_to_run_poses.motion
+  fps: 30.0
+  idx: 66
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.1
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C20___run_to_pickup_box_poses.motion
+  fps: 30.0
+  idx: 67
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.933333333333333
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C23___put_down_box_to_run_poses.motion
+  fps: 30.0
+  idx: 68
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2333333333333334
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C26___run_to_crouch_poses.motion
+  fps: 30.0
+  idx: 69
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3666666666666667
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C3___run_poses.motion
+  fps: 30.0
+  idx: 70
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7333333333333334
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C4___run_to_walk_a_poses.motion
+  fps: 30.0
+  idx: 71
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.8666666666666667
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C4___run_to_walk_poses.motion
+  fps: 30.0
+  idx: 72
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.8666666666666667
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C5___walk_to_run_poses.motion
+  fps: 30.0
+  idx: 73
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.566666666666667
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C6___stand_to_run_backwards_poses.motion
+  fps: 30.0
+  idx: 74
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.833333333333333
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C7___run_backwards_t2_poses.motion
+  fps: 30.0
+  idx: 75
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2333333333333334
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C8___run_backwards_to_stand_poses.motion
+  fps: 30.0
+  idx: 76
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.033333333333333
+  weight: 1.0
+- file: ACCAD/Male2Running_c3d/C9___run_backwards_turn_run_forward_poses.motion
+  fps: 30.0
+  idx: 77
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.6
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B10____Walk_turn_left_45_poses.motion
+  fps: 30.0
+  idx: 78
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.0
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B11____Walk_turn_left_135_poses.motion
+  fps: 30.0
+  idx: 79
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.5
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B13____Walk_turn_right_90_poses.motion
+  fps: 30.0
+  idx: 80
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.633333333333334
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B14____Walk_turn_right_45_t2_poses.motion
+  fps: 30.0
+  idx: 81
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B17____Walk_to_hop_to_walk_a_poses.motion
+  fps: 30.0
+  idx: 82
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.5
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B17____Walk_to_hop_to_walk_poses.motion
+  fps: 30.0
+  idx: 83
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.5
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B18____Walk_to_leap_to_walk_poses.motion
+  fps: 30.0
+  idx: 84
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8666666666666667
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B18____Walk_to_leap_to_walk_t2_poses.motion
+  fps: 30.0
+  idx: 85
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.733333333333333
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B18____Walk_to_leap_to_walk_t3_poses.motion
+  fps: 30.0
+  idx: 86
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.133333333333334
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B19____Walk_to_pickup_box_poses.motion
+  fps: 30.0
+  idx: 87
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.7
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B20____Walk_with_box_poses.motion
+  fps: 30.0
+  idx: 88
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.466666666666667
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B21____put_down_box_to_walk_a_poses.motion
+  fps: 30.0
+  idx: 89
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.566666666666666
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B21____put_down_box_to_walk_poses.motion
+  fps: 30.0
+  idx: 90
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.566666666666666
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B24____walk_to_crouch_poses.motion
+  fps: 30.0
+  idx: 91
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.133333333333334
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B26____walk_to_skip_poses.motion
+  fps: 30.0
+  idx: 92
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.9
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B27____skip_to_walk_a_poses.motion
+  fps: 30.0
+  idx: 93
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.566666666666666
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B4___Stand_to_Walk_backwards_poses.motion
+  fps: 30.0
+  idx: 94
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.633333333333334
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B5____Walk_backwards_poses.motion
+  fps: 30.0
+  idx: 95
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.133333333333333
+  weight: 1.0
+- file: ACCAD/Male2Walking_c3d/B9____Walk_turn_left_90_poses.motion
+  fps: 30.0
+  idx: 96
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.033333333333333
+  weight: 1.0
+- file: ACCAD/s007/QkWalk1_poses.motion
+  fps: 30.0
+  idx: 97
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.566666666666667
+  weight: 1.0
+- file: ACCAD/s008/Run1_poses.motion
+  fps: 30.0
+  idx: 98
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.8333333333333333
+  weight: 1.0
+- file: ACCAD/s011/walkdog_poses.motion
+  fps: 30.0
+  idx: 99
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.3
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub001/0017_circle_walk_poses.motion
+  fps: 30.0
+  idx: 100
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.5
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub010/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 101
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 17.6
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub012/0028_circle_walk_poses.motion
+  fps: 30.0
+  idx: 102
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 18.366666666666667
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub014/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 103
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 21.033333333333335
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub017/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 104
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 14.933333333333334
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub022/0026_circle_walk_poses.motion
+  fps: 30.0
+  idx: 105
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 17.7
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub026/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 106
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 18.866666666666667
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub031/0028_circle_walk_poses.motion
+  fps: 30.0
+  idx: 107
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 20.5
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub032/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 108
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.9
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub050/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 109
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.1
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub056/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 110
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.466666666666667
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub058/0008_normal_walk4_poses.motion
+  fps: 30.0
+  idx: 111
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.4
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub058/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 112
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 14.633333333333333
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub059/0028_circle_walk_poses.motion
+  fps: 30.0
+  idx: 113
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 20.566666666666666
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub061/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 114
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.966666666666667
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub063/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 115
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.633333333333333
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub065/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 116
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.633333333333333
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub081/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 117
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.1
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub091/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 118
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.933333333333334
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub093/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 119
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 14.533333333333333
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub097/0026_circle_walk_poses.motion
+  fps: 30.0
+  idx: 120
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.4
+  weight: 1.0
+- file: BioMotionLab_NTroje/rub115/0027_circle_walk_poses.motion
+  fps: 30.0
+  idx: 121
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.333333333333334
+  weight: 1.0
+- file: CMU/07/07_01_poses.motion
+  fps: 30.0
+  idx: 122
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.6333333333333333
+  weight: 1.0
+- file: CMU/07/07_02_poses.motion
+  fps: 30.0
+  idx: 123
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7666666666666666
+  weight: 1.0
+- file: CMU/07/07_03_poses.motion
+  fps: 30.0
+  idx: 124
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.466666666666667
+  weight: 1.0
+- file: CMU/07/07_04_poses.motion
+  fps: 30.0
+  idx: 125
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.7666666666666666
+  weight: 1.0
+- file: CMU/07/07_05_poses.motion
+  fps: 30.0
+  idx: 126
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.333333333333333
+  weight: 1.0
+- file: CMU/07/07_06_poses.motion
+  fps: 30.0
+  idx: 127
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.5
+  weight: 1.0
+- file: CMU/07/07_07_poses.motion
+  fps: 30.0
+  idx: 128
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1666666666666665
+  weight: 1.0
+- file: CMU/07/07_08_poses.motion
+  fps: 30.0
+  idx: 129
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.033333333333333
+  weight: 1.0
+- file: CMU/07/07_09_poses.motion
+  fps: 30.0
+  idx: 130
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.566666666666667
+  weight: 1.0
+- file: CMU/08/08_01_poses.motion
+  fps: 30.0
+  idx: 131
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3333333333333335
+  weight: 1.0
+- file: CMU/08/08_02_poses.motion
+  fps: 30.0
+  idx: 132
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.6
+  weight: 1.0
+- file: CMU/08/08_03_poses.motion
+  fps: 30.0
+  idx: 133
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.966666666666667
+  weight: 1.0
+- file: CMU/08/08_04_poses.motion
+  fps: 30.0
+  idx: 134
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.033333333333333
+  weight: 1.0
+- file: CMU/08/08_05_poses.motion
+  fps: 30.0
+  idx: 135
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.5
+  weight: 1.0
+- file: CMU/08/08_06_poses.motion
+  fps: 30.0
+  idx: 136
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.466666666666667
+  weight: 1.0
+- file: CMU/08/08_07_poses.motion
+  fps: 30.0
+  idx: 137
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.533333333333333
+  weight: 1.0
+- file: CMU/08/08_08_poses.motion
+  fps: 30.0
+  idx: 138
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3666666666666667
+  weight: 1.0
+- file: CMU/08/08_09_poses.motion
+  fps: 30.0
+  idx: 139
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.466666666666667
+  weight: 1.0
+- file: CMU/09/09_01_poses.motion
+  fps: 30.0
+  idx: 140
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.2333333333333334
+  weight: 1.0
+- file: CMU/09/09_02_poses.motion
+  fps: 30.0
+  idx: 141
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1
+  weight: 1.0
+- file: CMU/09/09_03_poses.motion
+  fps: 30.0
+  idx: 142
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.0666666666666667
+  weight: 1.0
+- file: CMU/09/09_04_poses.motion
+  fps: 30.0
+  idx: 143
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1666666666666667
+  weight: 1.0
+- file: CMU/09/09_05_poses.motion
+  fps: 30.0
+  idx: 144
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.2
+  weight: 1.0
+- file: CMU/09/09_06_poses.motion
+  fps: 30.0
+  idx: 145
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.2
+  weight: 1.0
+- file: CMU/09/09_07_poses.motion
+  fps: 30.0
+  idx: 146
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1666666666666667
+  weight: 1.0
+- file: CMU/09/09_08_poses.motion
+  fps: 30.0
+  idx: 147
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.0666666666666667
+  weight: 1.0
+- file: CMU/09/09_09_poses.motion
+  fps: 30.0
+  idx: 148
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.2666666666666666
+  weight: 1.0
+- file: CMU/107/107_01_poses.motion
+  fps: 30.0
+  idx: 149
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.866666666666667
+  weight: 1.0
+- file: CMU/107/107_02_poses.motion
+  fps: 30.0
+  idx: 150
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.466666666666667
+  weight: 1.0
+- file: CMU/107/107_03_poses.motion
+  fps: 30.0
+  idx: 151
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.566666666666666
+  weight: 1.0
+- file: CMU/107/107_04_poses.motion
+  fps: 30.0
+  idx: 152
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.266666666666667
+  weight: 1.0
+- file: CMU/107/107_05_poses.motion
+  fps: 30.0
+  idx: 153
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.2
+  weight: 1.0
+- file: CMU/107/107_06_poses.motion
+  fps: 30.0
+  idx: 154
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.166666666666667
+  weight: 1.0
+- file: CMU/107/107_07_poses.motion
+  fps: 30.0
+  idx: 155
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.6
+  weight: 1.0
+- file: CMU/107/107_08_poses.motion
+  fps: 30.0
+  idx: 156
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 13.8
+  weight: 1.0
+- file: CMU/107/107_09_poses.motion
+  fps: 30.0
+  idx: 157
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.433333333333334
+  weight: 1.0
+- file: CMU/108/108_01_poses.motion
+  fps: 30.0
+  idx: 158
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.033333333333333
+  weight: 1.0
+- file: CMU/108/108_02_poses.motion
+  fps: 30.0
+  idx: 159
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.533333333333333
+  weight: 1.0
+- file: CMU/108/108_03_poses.motion
+  fps: 30.0
+  idx: 160
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.233333333333333
+  weight: 1.0
+- file: CMU/108/108_04_poses.motion
+  fps: 30.0
+  idx: 161
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.5333333333333334
+  weight: 1.0
+- file: CMU/108/108_05_poses.motion
+  fps: 30.0
+  idx: 162
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.5333333333333334
+  weight: 1.0
+- file: CMU/108/108_06_poses.motion
+  fps: 30.0
+  idx: 163
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.6
+  weight: 1.0
+- file: CMU/108/108_07_poses.motion
+  fps: 30.0
+  idx: 164
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.8666666666666667
+  weight: 1.0
+- file: CMU/108/108_08_poses.motion
+  fps: 30.0
+  idx: 165
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.9
+  weight: 1.0
+- file: CMU/108/108_09_poses.motion
+  fps: 30.0
+  idx: 166
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.1
+  weight: 1.0
+- file: CMU/108/108_10_poses.motion
+  fps: 30.0
+  idx: 167
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.0
+  weight: 1.0
+- file: CMU/108/108_11_poses.motion
+  fps: 30.0
+  idx: 168
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.033333333333333
+  weight: 1.0
+- file: CMU/108/108_12_poses.motion
+  fps: 30.0
+  idx: 169
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1666666666666667
+  weight: 1.0
+- file: CMU/108/108_13_poses.motion
+  fps: 30.0
+  idx: 170
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.3
+  weight: 1.0
+- file: CMU/108/108_14_poses.motion
+  fps: 30.0
+  idx: 171
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.4666666666666666
+  weight: 1.0
+- file: CMU/108/108_15_poses.motion
+  fps: 30.0
+  idx: 172
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.966666666666667
+  weight: 1.0
+- file: CMU/108/108_16_poses.motion
+  fps: 30.0
+  idx: 173
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.966666666666667
+  weight: 1.0
+- file: CMU/108/108_17_poses.motion
+  fps: 30.0
+  idx: 174
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.9333333333333333
+  weight: 1.0
+- file: CMU/108/108_18_poses.motion
+  fps: 30.0
+  idx: 175
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.066666666666667
+  weight: 1.0
+- file: CMU/108/108_19_poses.motion
+  fps: 30.0
+  idx: 176
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.1333333333333333
+  weight: 1.0
+- file: CMU/127/127_03_poses.motion
+  fps: 30.0
+  idx: 177
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7666666666666666
+  weight: 1.0
+- file: CMU/127/127_04_poses.motion
+  fps: 30.0
+  idx: 178
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.7333333333333334
+  weight: 1.0
+- file: CMU/127/127_05_poses.motion
+  fps: 30.0
+  idx: 179
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2333333333333334
+  weight: 1.0
+- file: CMU/127/127_06_poses.motion
+  fps: 30.0
+  idx: 180
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.4666666666666666
+  weight: 1.0
+- file: CMU/127/127_07_poses.motion
+  fps: 30.0
+  idx: 181
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.2333333333333334
+  weight: 1.0
+- file: CMU/127/127_08_poses.motion
+  fps: 30.0
+  idx: 182
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1666666666666667
+  weight: 1.0
+- file: CMU/127/127_09_poses.motion
+  fps: 30.0
+  idx: 183
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.6666666666666667
+  weight: 1.0
+- file: CMU/127/127_10_poses.motion
+  fps: 30.0
+  idx: 184
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.4
+  weight: 1.0
+- file: CMU/127/127_11_poses.motion
+  fps: 30.0
+  idx: 185
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.6666666666666667
+  weight: 1.0
+- file: CMU/127/127_12_poses.motion
+  fps: 30.0
+  idx: 186
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.5
+  weight: 1.0
+- file: CMU/127/127_13_poses.motion
+  fps: 30.0
+  idx: 187
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.5666666666666667
+  weight: 1.0
+- file: CMU/127/127_14_poses.motion
+  fps: 30.0
+  idx: 188
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.2666666666666666
+  weight: 1.0
+- file: CMU/127/127_15_poses.motion
+  fps: 30.0
+  idx: 189
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.3666666666666667
+  weight: 1.0
+- file: CMU/127/127_16_poses.motion
+  fps: 30.0
+  idx: 190
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.1666666666666665
+  weight: 1.0
+- file: CMU/127/127_17_poses.motion
+  fps: 30.0
+  idx: 191
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2
+  weight: 1.0
+- file: CMU/127/127_18_poses.motion
+  fps: 30.0
+  idx: 192
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.3
+  weight: 1.0
+- file: CMU/127/127_19_poses.motion
+  fps: 30.0
+  idx: 193
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.6666666666666665
+  weight: 1.0
+- file: CMU/128/128_02_poses.motion
+  fps: 30.0
+  idx: 194
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.4
+  weight: 1.0
+- file: CMU/128/128_03_poses.motion
+  fps: 30.0
+  idx: 195
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.3666666666666667
+  weight: 1.0
+- file: CMU/128/128_04_poses.motion
+  fps: 30.0
+  idx: 196
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1333333333333333
+  weight: 1.0
+- file: CMU/128/128_05_poses.motion
+  fps: 30.0
+  idx: 197
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.7666666666666666
+  weight: 1.0
+- file: CMU/128/128_06_poses.motion
+  fps: 30.0
+  idx: 198
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.6666666666666667
+  weight: 1.0
+- file: CMU/128/128_07_poses.motion
+  fps: 30.0
+  idx: 199
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.9
+  weight: 1.0
+- file: CMU/128/128_08_poses.motion
+  fps: 30.0
+  idx: 200
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7666666666666666
+  weight: 1.0
+- file: CMU/128/128_09_poses.motion
+  fps: 30.0
+  idx: 201
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.4333333333333333
+  weight: 1.0
+- file: CMU/16/16_35_poses.motion
+  fps: 30.0
+  idx: 202
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.3666666666666667
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_03_sneak_takiguchi_poses.motion
+  fps: 30.0
+  idx: 203
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 24.833333333333332
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_08_lookfor_takiguchi_poses.motion
+  fps: 30.0
+  idx: 204
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 24.666666666666668
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_09_handbag_takiguchi_poses.motion
+  fps: 30.0
+  idx: 205
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 24.8
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_11_baggage_on_the_head_takiguchi_poses.motion
+  fps: 30.0
+  idx: 206
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 25.0
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_19_shuffle_backward_takiguchi_poses.motion
+  fps: 30.0
+  idx: 207
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 25.0
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_24_listless_takiguchi_poses.motion
+  fps: 30.0
+  idx: 208
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 24.8
+  weight: 1.0
+- file: Eyes_Japan_Dataset/takiguchi/walk_27_thinking_takiguchi_poses.motion
+  fps: 30.0
+  idx: 209
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 25.0
+  weight: 1.0
+- file: HumanEva/S2/Walking_3_poses.motion
+  fps: 30.0
+  idx: 210
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.7
+  weight: 1.0
+- file: KIT/10/WalkInCounterClockwiseCircle02_poses.motion
+  fps: 50.0
+  idx: 211
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 212
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.16
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 213
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 214
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.48
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 215
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 216
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 217
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.4
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 218
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.06
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards08_poses.motion
+  fps: 50.0
+  idx: 219
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.76
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 220
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.22
+  weight: 1.0
+- file: KIT/10/WalkingStraightBackwards10_poses.motion
+  fps: 50.0
+  idx: 221
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.94
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards01_1_poses.motion
+  fps: 50.0
+  idx: 222
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.56
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards02_1_poses.motion
+  fps: 50.0
+  idx: 223
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.62
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards03_1_poses.motion
+  fps: 50.0
+  idx: 224
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.48
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards04_1_poses.motion
+  fps: 50.0
+  idx: 225
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.94
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards05_1_poses.motion
+  fps: 50.0
+  idx: 226
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.92
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards06_1_poses.motion
+  fps: 50.0
+  idx: 227
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.06
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards07_1_poses.motion
+  fps: 50.0
+  idx: 228
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.06
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards08_1_poses.motion
+  fps: 50.0
+  idx: 229
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.82
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards09_1_poses.motion
+  fps: 50.0
+  idx: 230
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.38
+  weight: 1.0
+- file: KIT/11/WalkingStraightBackwards10_poses.motion
+  fps: 50.0
+  idx: 231
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.58
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards01_poses.motion
+  fps: 50.0
+  idx: 232
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.06
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards02_poses.motion
+  fps: 50.0
+  idx: 233
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.42
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards03_poses.motion
+  fps: 50.0
+  idx: 234
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.84
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards04_poses.motion
+  fps: 50.0
+  idx: 235
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.4
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards05_poses.motion
+  fps: 50.0
+  idx: 236
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.88
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards06_poses.motion
+  fps: 50.0
+  idx: 237
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.38
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards07_poses.motion
+  fps: 50.0
+  idx: 238
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards08_poses.motion
+  fps: 50.0
+  idx: 239
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.8
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards09_poses.motion
+  fps: 50.0
+  idx: 240
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/11/WalkingStraightForwards10_poses.motion
+  fps: 50.0
+  idx: 241
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.94
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle01_poses.motion
+  fps: 50.0
+  idx: 242
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle02_poses.motion
+  fps: 50.0
+  idx: 243
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle03_poses.motion
+  fps: 50.0
+  idx: 244
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle05_poses.motion
+  fps: 50.0
+  idx: 245
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.78
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle09_poses.motion
+  fps: 50.0
+  idx: 246
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.48
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle11_poses.motion
+  fps: 50.0
+  idx: 247
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.74
+  weight: 1.0
+- file: KIT/12/WalkInClockwiseCircle12_poses.motion
+  fps: 50.0
+  idx: 248
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.68
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle01_poses.motion
+  fps: 50.0
+  idx: 249
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.9
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle02_poses.motion
+  fps: 50.0
+  idx: 250
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.82
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle04_poses.motion
+  fps: 50.0
+  idx: 251
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.22
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle05_poses.motion
+  fps: 50.0
+  idx: 252
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.58
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle06_poses.motion
+  fps: 50.0
+  idx: 253
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.32
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle07_poses.motion
+  fps: 50.0
+  idx: 254
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.5
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle08_poses.motion
+  fps: 50.0
+  idx: 255
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.26
+  weight: 1.0
+- file: KIT/12/WalkInCounterClockwiseCircle10_poses.motion
+  fps: 50.0
+  idx: 256
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.68
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 257
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.0
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 258
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.78
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 259
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.94
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 260
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.1
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 261
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.08
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 262
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.9
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 263
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.5
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards08_poses.motion
+  fps: 50.0
+  idx: 264
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.38
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 265
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.5
+  weight: 1.0
+- file: KIT/12/WalkingStraightBackwards10_poses.motion
+  fps: 50.0
+  idx: 266
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.84
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards01_1_poses.motion
+  fps: 50.0
+  idx: 267
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.98
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards03_poses.motion
+  fps: 50.0
+  idx: 268
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.48
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards04_1_poses.motion
+  fps: 50.0
+  idx: 269
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.46
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards05_1_poses.motion
+  fps: 50.0
+  idx: 270
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.54
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards06_1_poses.motion
+  fps: 50.0
+  idx: 271
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards07_1_poses.motion
+  fps: 50.0
+  idx: 272
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.88
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards08_1_poses.motion
+  fps: 50.0
+  idx: 273
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards09_1_poses.motion
+  fps: 50.0
+  idx: 274
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.58
+  weight: 1.0
+- file: KIT/12/WalkingStraightForwards10_poses.motion
+  fps: 50.0
+  idx: 275
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.58
+  weight: 1.0
+- file: KIT/167/run01_poses.motion
+  fps: 50.0
+  idx: 276
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.88
+  weight: 1.0
+- file: KIT/167/run02_poses.motion
+  fps: 50.0
+  idx: 277
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.9
+  weight: 1.0
+- file: KIT/167/run04_poses.motion
+  fps: 50.0
+  idx: 278
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.96
+  weight: 1.0
+- file: KIT/167/run05_poses.motion
+  fps: 50.0
+  idx: 279
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.78
+  weight: 1.0
+- file: KIT/167/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 280
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.1
+  weight: 1.0
+- file: KIT/167/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 281
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.7
+  weight: 1.0
+- file: KIT/167/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 282
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.54
+  weight: 1.0
+- file: KIT/167/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 283
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.22
+  weight: 1.0
+- file: KIT/167/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 284
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.24
+  weight: 1.0
+- file: KIT/167/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 285
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.9
+  weight: 1.0
+- file: KIT/167/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 286
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.2
+  weight: 1.0
+- file: KIT/167/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 287
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.3
+  weight: 1.0
+- file: KIT/167/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 288
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.92
+  weight: 1.0
+- file: KIT/167/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 289
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.42
+  weight: 1.0
+- file: KIT/167/walking_run01_poses.motion
+  fps: 50.0
+  idx: 290
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.02
+  weight: 1.0
+- file: KIT/167/walking_run02_poses.motion
+  fps: 50.0
+  idx: 291
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/167/walking_run03_poses.motion
+  fps: 50.0
+  idx: 292
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.94
+  weight: 1.0
+- file: KIT/167/walking_run04_poses.motion
+  fps: 50.0
+  idx: 293
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.18
+  weight: 1.0
+- file: KIT/167/walking_run05_poses.motion
+  fps: 50.0
+  idx: 294
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/167/walking_run06_poses.motion
+  fps: 50.0
+  idx: 295
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.36
+  weight: 1.0
+- file: KIT/167/walking_run07_poses.motion
+  fps: 50.0
+  idx: 296
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/167/walking_run08_poses.motion
+  fps: 50.0
+  idx: 297
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.38
+  weight: 1.0
+- file: KIT/167/walking_run09_poses.motion
+  fps: 50.0
+  idx: 298
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.36
+  weight: 1.0
+- file: KIT/167/walking_run10_poses.motion
+  fps: 50.0
+  idx: 299
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.88
+  weight: 1.0
+- file: KIT/167/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 300
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.36
+  weight: 1.0
+- file: KIT/167/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 301
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.54
+  weight: 1.0
+- file: KIT/167/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 302
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.02
+  weight: 1.0
+- file: KIT/167/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 303
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.52
+  weight: 1.0
+- file: KIT/167/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 304
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.86
+  weight: 1.0
+- file: KIT/167/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 305
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.74
+  weight: 1.0
+- file: KIT/167/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 306
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.48
+  weight: 1.0
+- file: KIT/167/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 307
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.74
+  weight: 1.0
+- file: KIT/167/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 308
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.94
+  weight: 1.0
+- file: KIT/167/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 309
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.16
+  weight: 1.0
+- file: KIT/167/walking_slow11_poses.motion
+  fps: 50.0
+  idx: 310
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.24
+  weight: 1.0
+- file: KIT/183/run01_poses.motion
+  fps: 50.0
+  idx: 311
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.14
+  weight: 1.0
+- file: KIT/183/run02_poses.motion
+  fps: 50.0
+  idx: 312
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.28
+  weight: 1.0
+- file: KIT/183/run03_poses.motion
+  fps: 50.0
+  idx: 313
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.36
+  weight: 1.0
+- file: KIT/183/run04_poses.motion
+  fps: 50.0
+  idx: 314
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.38
+  weight: 1.0
+- file: KIT/183/run05_poses.motion
+  fps: 50.0
+  idx: 315
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.18
+  weight: 1.0
+- file: KIT/183/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 316
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.78
+  weight: 1.0
+- file: KIT/183/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 317
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.74
+  weight: 1.0
+- file: KIT/183/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 318
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.4
+  weight: 1.0
+- file: KIT/183/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 319
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.0
+  weight: 1.0
+- file: KIT/183/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 320
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.1
+  weight: 1.0
+- file: KIT/183/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 321
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.04
+  weight: 1.0
+- file: KIT/183/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 322
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.02
+  weight: 1.0
+- file: KIT/183/walking_fast08_poses.motion
+  fps: 50.0
+  idx: 323
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/183/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 324
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.78
+  weight: 1.0
+- file: KIT/183/walking_fast10_poses.motion
+  fps: 50.0
+  idx: 325
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.22
+  weight: 1.0
+- file: KIT/183/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 326
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.58
+  weight: 1.0
+- file: KIT/183/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 327
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/183/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 328
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.66
+  weight: 1.0
+- file: KIT/183/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 329
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/183/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 330
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.34
+  weight: 1.0
+- file: KIT/183/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 331
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.8
+  weight: 1.0
+- file: KIT/183/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 332
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.58
+  weight: 1.0
+- file: KIT/183/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 333
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.72
+  weight: 1.0
+- file: KIT/183/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 334
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.96
+  weight: 1.0
+- file: KIT/183/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 335
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.22
+  weight: 1.0
+- file: KIT/183/walking_run01_poses.motion
+  fps: 50.0
+  idx: 336
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.7
+  weight: 1.0
+- file: KIT/183/walking_run02_poses.motion
+  fps: 50.0
+  idx: 337
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.22
+  weight: 1.0
+- file: KIT/183/walking_run04_poses.motion
+  fps: 50.0
+  idx: 338
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.42
+  weight: 1.0
+- file: KIT/183/walking_run05_poses.motion
+  fps: 50.0
+  idx: 339
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.62
+  weight: 1.0
+- file: KIT/183/walking_run06_poses.motion
+  fps: 50.0
+  idx: 340
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.66
+  weight: 1.0
+- file: KIT/183/walking_run07_poses.motion
+  fps: 50.0
+  idx: 341
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.82
+  weight: 1.0
+- file: KIT/183/walking_run08_poses.motion
+  fps: 50.0
+  idx: 342
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.86
+  weight: 1.0
+- file: KIT/183/walking_run09_poses.motion
+  fps: 50.0
+  idx: 343
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.22
+  weight: 1.0
+- file: KIT/183/walking_run10_poses.motion
+  fps: 50.0
+  idx: 344
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.98
+  weight: 1.0
+- file: KIT/183/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 345
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.14
+  weight: 1.0
+- file: KIT/183/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 346
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.34
+  weight: 1.0
+- file: KIT/183/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 347
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.24
+  weight: 1.0
+- file: KIT/183/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 348
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.78
+  weight: 1.0
+- file: KIT/183/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 349
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.72
+  weight: 1.0
+- file: KIT/183/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 350
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.18
+  weight: 1.0
+- file: KIT/183/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 351
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.96
+  weight: 1.0
+- file: KIT/183/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 352
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.06
+  weight: 1.0
+- file: KIT/183/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 353
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.08
+  weight: 1.0
+- file: KIT/183/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 354
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.2
+  weight: 1.0
+- file: KIT/205/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 355
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.6
+  weight: 1.0
+- file: KIT/205/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 356
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.14
+  weight: 1.0
+- file: KIT/205/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 357
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.66
+  weight: 1.0
+- file: KIT/205/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 358
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.22
+  weight: 1.0
+- file: KIT/205/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 359
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.38
+  weight: 1.0
+- file: KIT/205/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 360
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.1
+  weight: 1.0
+- file: KIT/205/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 361
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.08
+  weight: 1.0
+- file: KIT/205/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 362
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.64
+  weight: 1.0
+- file: KIT/205/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 363
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.62
+  weight: 1.0
+- file: KIT/205/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 364
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/205/walking_run01_poses.motion
+  fps: 50.0
+  idx: 365
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.44
+  weight: 1.0
+- file: KIT/205/walking_run02_poses.motion
+  fps: 50.0
+  idx: 366
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.38
+  weight: 1.0
+- file: KIT/205/walking_run03_poses.motion
+  fps: 50.0
+  idx: 367
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.2
+  weight: 1.0
+- file: KIT/205/walking_run04_poses.motion
+  fps: 50.0
+  idx: 368
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.46
+  weight: 1.0
+- file: KIT/205/walking_run05_poses.motion
+  fps: 50.0
+  idx: 369
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.28
+  weight: 1.0
+- file: KIT/205/walking_run06_poses.motion
+  fps: 50.0
+  idx: 370
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.44
+  weight: 1.0
+- file: KIT/205/walking_run07_poses.motion
+  fps: 50.0
+  idx: 371
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.68
+  weight: 1.0
+- file: KIT/205/walking_run08_poses.motion
+  fps: 50.0
+  idx: 372
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/205/walking_run09_poses.motion
+  fps: 50.0
+  idx: 373
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.14
+  weight: 1.0
+- file: KIT/205/walking_run10_poses.motion
+  fps: 50.0
+  idx: 374
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.52
+  weight: 1.0
+- file: KIT/205/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 375
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.96
+  weight: 1.0
+- file: KIT/205/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 376
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.46
+  weight: 1.0
+- file: KIT/205/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 377
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.2
+  weight: 1.0
+- file: KIT/205/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 378
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.64
+  weight: 1.0
+- file: KIT/205/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 379
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.98
+  weight: 1.0
+- file: KIT/205/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 380
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.92
+  weight: 1.0
+- file: KIT/205/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 381
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.68
+  weight: 1.0
+- file: KIT/205/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 382
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/205/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 383
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.34
+  weight: 1.0
+- file: KIT/205/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 384
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/291/nordic_walking03_poses.motion
+  fps: 50.0
+  idx: 385
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.42
+  weight: 1.0
+- file: KIT/291/walking02_poses.motion
+  fps: 50.0
+  idx: 386
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.2
+  weight: 1.0
+- file: KIT/291/walking03_poses.motion
+  fps: 50.0
+  idx: 387
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.48
+  weight: 1.0
+- file: KIT/3/walk_6m_straight_line04_poses.motion
+  fps: 50.0
+  idx: 388
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.42
+  weight: 1.0
+- file: KIT/3/walk_6m_straight_line06_poses.motion
+  fps: 50.0
+  idx: 389
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 14.98
+  weight: 1.0
+- file: KIT/3/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 390
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.22
+  weight: 1.0
+- file: KIT/3/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 391
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.12
+  weight: 1.0
+- file: KIT/3/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 392
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: KIT/3/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 393
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.8
+  weight: 1.0
+- file: KIT/3/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 394
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.16
+  weight: 1.0
+- file: KIT/3/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 395
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.98
+  weight: 1.0
+- file: KIT/3/walking_fast08_poses.motion
+  fps: 50.0
+  idx: 396
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.28
+  weight: 1.0
+- file: KIT/3/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 397
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.6
+  weight: 1.0
+- file: KIT/3/walking_fast10_poses.motion
+  fps: 50.0
+  idx: 398
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: KIT/3/walking_forward_4steps_right_02_poses.motion
+  fps: 50.0
+  idx: 399
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.08
+  weight: 1.0
+- file: KIT/3/walking_forward_4steps_right_04_poses.motion
+  fps: 50.0
+  idx: 400
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/3/walking_forward_4steps_right_05_poses.motion
+  fps: 50.0
+  idx: 401
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.66
+  weight: 1.0
+- file: KIT/3/walking_forward_4steps_right_poses.motion
+  fps: 50.0
+  idx: 402
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.02
+  weight: 1.0
+- file: KIT/3/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 403
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.18
+  weight: 1.0
+- file: KIT/3/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 404
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.62
+  weight: 1.0
+- file: KIT/3/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 405
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.58
+  weight: 1.0
+- file: KIT/3/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 406
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.3
+  weight: 1.0
+- file: KIT/3/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 407
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.24
+  weight: 1.0
+- file: KIT/3/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 408
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/3/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 409
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.96
+  weight: 1.0
+- file: KIT/3/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 410
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.42
+  weight: 1.0
+- file: KIT/3/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 411
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.0
+  weight: 1.0
+- file: KIT/3/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 412
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.92
+  weight: 1.0
+- file: KIT/3/walking_run02_poses.motion
+  fps: 50.0
+  idx: 413
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.56
+  weight: 1.0
+- file: KIT/3/walking_run03_poses.motion
+  fps: 50.0
+  idx: 414
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.7
+  weight: 1.0
+- file: KIT/3/walking_run04_poses.motion
+  fps: 50.0
+  idx: 415
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.08
+  weight: 1.0
+- file: KIT/3/walking_run05_poses.motion
+  fps: 50.0
+  idx: 416
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.76
+  weight: 1.0
+- file: KIT/3/walking_run06_poses.motion
+  fps: 50.0
+  idx: 417
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.02
+  weight: 1.0
+- file: KIT/3/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 418
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.12
+  weight: 1.0
+- file: KIT/3/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 419
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/3/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 420
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.52
+  weight: 1.0
+- file: KIT/3/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 421
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.96
+  weight: 1.0
+- file: KIT/3/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 422
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.6
+  weight: 1.0
+- file: KIT/3/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 423
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.38
+  weight: 1.0
+- file: KIT/3/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 424
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.48
+  weight: 1.0
+- file: KIT/3/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 425
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.54
+  weight: 1.0
+- file: KIT/3/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 426
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.64
+  weight: 1.0
+- file: KIT/3/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 427
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.06
+  weight: 1.0
+- file: KIT/3/walking_upstairs02_poses.motion
+  fps: 50.0
+  idx: 428
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.08
+  weight: 1.0
+- file: KIT/3/walking_upstairs03_poses.motion
+  fps: 50.0
+  idx: 429
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.9
+  weight: 1.0
+- file: KIT/3/walking_upstairs04_poses.motion
+  fps: 50.0
+  idx: 430
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.38
+  weight: 1.0
+- file: KIT/3/walking_upstairs05_poses.motion
+  fps: 50.0
+  idx: 431
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.52
+  weight: 1.0
+- file: KIT/3/walking_upstairs06_poses.motion
+  fps: 50.0
+  idx: 432
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.84
+  weight: 1.0
+- file: KIT/3/walking_upstairs07_poses.motion
+  fps: 50.0
+  idx: 433
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.82
+  weight: 1.0
+- file: KIT/314/run01_poses.motion
+  fps: 50.0
+  idx: 434
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.04
+  weight: 1.0
+- file: KIT/314/run02_poses.motion
+  fps: 50.0
+  idx: 435
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.82
+  weight: 1.0
+- file: KIT/314/run03_poses.motion
+  fps: 50.0
+  idx: 436
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.74
+  weight: 1.0
+- file: KIT/314/run04_poses.motion
+  fps: 50.0
+  idx: 437
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.78
+  weight: 1.0
+- file: KIT/314/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 438
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/314/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 439
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.96
+  weight: 1.0
+- file: KIT/314/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 440
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/314/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 441
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/314/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 442
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.0
+  weight: 1.0
+- file: KIT/314/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 443
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.54
+  weight: 1.0
+- file: KIT/314/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 444
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.86
+  weight: 1.0
+- file: KIT/314/walking_fast08_poses.motion
+  fps: 50.0
+  idx: 445
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/314/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 446
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.1
+  weight: 1.0
+- file: KIT/314/walking_fast10_poses.motion
+  fps: 50.0
+  idx: 447
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: KIT/314/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 448
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.62
+  weight: 1.0
+- file: KIT/314/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 449
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.84
+  weight: 1.0
+- file: KIT/314/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 450
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.0
+  weight: 1.0
+- file: KIT/314/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 451
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.32
+  weight: 1.0
+- file: KIT/314/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 452
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.96
+  weight: 1.0
+- file: KIT/314/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 453
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.44
+  weight: 1.0
+- file: KIT/314/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 454
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.64
+  weight: 1.0
+- file: KIT/314/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 455
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.82
+  weight: 1.0
+- file: KIT/314/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 456
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.8
+  weight: 1.0
+- file: KIT/314/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 457
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.26
+  weight: 1.0
+- file: KIT/314/walking_run01_poses.motion
+  fps: 50.0
+  idx: 458
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.66
+  weight: 1.0
+- file: KIT/314/walking_run02_poses.motion
+  fps: 50.0
+  idx: 459
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.66
+  weight: 1.0
+- file: KIT/314/walking_run03_poses.motion
+  fps: 50.0
+  idx: 460
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.04
+  weight: 1.0
+- file: KIT/314/walking_run04_poses.motion
+  fps: 50.0
+  idx: 461
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.84
+  weight: 1.0
+- file: KIT/314/walking_run05_poses.motion
+  fps: 50.0
+  idx: 462
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.52
+  weight: 1.0
+- file: KIT/314/walking_run06_poses.motion
+  fps: 50.0
+  idx: 463
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.66
+  weight: 1.0
+- file: KIT/314/walking_run08_poses.motion
+  fps: 50.0
+  idx: 464
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.52
+  weight: 1.0
+- file: KIT/314/walking_run09_poses.motion
+  fps: 50.0
+  idx: 465
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.36
+  weight: 1.0
+- file: KIT/314/walking_run10_poses.motion
+  fps: 50.0
+  idx: 466
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.8
+  weight: 1.0
+- file: KIT/314/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 467
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.78
+  weight: 1.0
+- file: KIT/314/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 468
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.9
+  weight: 1.0
+- file: KIT/314/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 469
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.62
+  weight: 1.0
+- file: KIT/314/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 470
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.12
+  weight: 1.0
+- file: KIT/314/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 471
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.24
+  weight: 1.0
+- file: KIT/314/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 472
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.84
+  weight: 1.0
+- file: KIT/314/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 473
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.94
+  weight: 1.0
+- file: KIT/314/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 474
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.82
+  weight: 1.0
+- file: KIT/314/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 475
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.12
+  weight: 1.0
+- file: KIT/314/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 476
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.12
+  weight: 1.0
+- file: KIT/317/run01_poses.motion
+  fps: 50.0
+  idx: 477
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.26
+  weight: 1.0
+- file: KIT/317/run02_poses.motion
+  fps: 50.0
+  idx: 478
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.44
+  weight: 1.0
+- file: KIT/317/run03_poses.motion
+  fps: 50.0
+  idx: 479
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.14
+  weight: 1.0
+- file: KIT/317/run04_poses.motion
+  fps: 50.0
+  idx: 480
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.12
+  weight: 1.0
+- file: KIT/317/run05_poses.motion
+  fps: 50.0
+  idx: 481
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.32
+  weight: 1.0
+- file: KIT/317/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 482
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/317/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 483
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.88
+  weight: 1.0
+- file: KIT/317/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 484
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.08
+  weight: 1.0
+- file: KIT/317/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 485
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.28
+  weight: 1.0
+- file: KIT/317/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 486
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.18
+  weight: 1.0
+- file: KIT/317/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 487
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/317/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 488
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.64
+  weight: 1.0
+- file: KIT/317/walking_fast08_poses.motion
+  fps: 50.0
+  idx: 489
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: KIT/317/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 490
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.02
+  weight: 1.0
+- file: KIT/317/walking_fast10_poses.motion
+  fps: 50.0
+  idx: 491
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/317/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 492
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/317/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 493
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.96
+  weight: 1.0
+- file: KIT/317/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 494
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.66
+  weight: 1.0
+- file: KIT/317/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 495
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.42
+  weight: 1.0
+- file: KIT/317/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 496
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.4
+  weight: 1.0
+- file: KIT/317/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 497
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.18
+  weight: 1.0
+- file: KIT/317/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 498
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.64
+  weight: 1.0
+- file: KIT/317/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 499
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.62
+  weight: 1.0
+- file: KIT/317/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 500
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.6
+  weight: 1.0
+- file: KIT/317/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 501
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.52
+  weight: 1.0
+- file: KIT/317/walking_run01_poses.motion
+  fps: 50.0
+  idx: 502
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.16
+  weight: 1.0
+- file: KIT/317/walking_run02_poses.motion
+  fps: 50.0
+  idx: 503
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.54
+  weight: 1.0
+- file: KIT/317/walking_run03_poses.motion
+  fps: 50.0
+  idx: 504
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.48
+  weight: 1.0
+- file: KIT/317/walking_run04_poses.motion
+  fps: 50.0
+  idx: 505
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.02
+  weight: 1.0
+- file: KIT/317/walking_run05_poses.motion
+  fps: 50.0
+  idx: 506
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.02
+  weight: 1.0
+- file: KIT/317/walking_run06_poses.motion
+  fps: 50.0
+  idx: 507
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.4
+  weight: 1.0
+- file: KIT/317/walking_run07_poses.motion
+  fps: 50.0
+  idx: 508
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.48
+  weight: 1.0
+- file: KIT/317/walking_run08_poses.motion
+  fps: 50.0
+  idx: 509
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.44
+  weight: 1.0
+- file: KIT/317/walking_run09_poses.motion
+  fps: 50.0
+  idx: 510
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.0
+  weight: 1.0
+- file: KIT/317/walking_run10_poses.motion
+  fps: 50.0
+  idx: 511
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.96
+  weight: 1.0
+- file: KIT/317/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 512
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.36
+  weight: 1.0
+- file: KIT/317/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 513
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.64
+  weight: 1.0
+- file: KIT/317/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 514
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.54
+  weight: 1.0
+- file: KIT/317/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 515
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.16
+  weight: 1.0
+- file: KIT/317/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 516
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.98
+  weight: 1.0
+- file: KIT/317/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 517
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.42
+  weight: 1.0
+- file: KIT/317/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 518
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.42
+  weight: 1.0
+- file: KIT/317/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 519
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.68
+  weight: 1.0
+- file: KIT/348/run01_poses.motion
+  fps: 50.0
+  idx: 520
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.12
+  weight: 1.0
+- file: KIT/348/run02_poses.motion
+  fps: 50.0
+  idx: 521
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.96
+  weight: 1.0
+- file: KIT/348/run03_poses.motion
+  fps: 50.0
+  idx: 522
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.06
+  weight: 1.0
+- file: KIT/348/run04_poses.motion
+  fps: 50.0
+  idx: 523
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.98
+  weight: 1.0
+- file: KIT/348/run05_poses.motion
+  fps: 50.0
+  idx: 524
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.92
+  weight: 1.0
+- file: KIT/348/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 525
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.46
+  weight: 1.0
+- file: KIT/348/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 526
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.22
+  weight: 1.0
+- file: KIT/348/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 527
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.06
+  weight: 1.0
+- file: KIT/348/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 528
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/348/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 529
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/348/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 530
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.4
+  weight: 1.0
+- file: KIT/348/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 531
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.12
+  weight: 1.0
+- file: KIT/348/walking_fast08_poses.motion
+  fps: 50.0
+  idx: 532
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.28
+  weight: 1.0
+- file: KIT/348/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 533
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.34
+  weight: 1.0
+- file: KIT/348/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 534
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.1
+  weight: 1.0
+- file: KIT/348/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 535
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.94
+  weight: 1.0
+- file: KIT/348/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 536
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.32
+  weight: 1.0
+- file: KIT/348/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 537
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.14
+  weight: 1.0
+- file: KIT/348/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 538
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.14
+  weight: 1.0
+- file: KIT/348/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 539
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.42
+  weight: 1.0
+- file: KIT/348/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 540
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.26
+  weight: 1.0
+- file: KIT/348/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 541
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.74
+  weight: 1.0
+- file: KIT/348/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 542
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/348/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 543
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.08
+  weight: 1.0
+- file: KIT/348/walking_run01_poses.motion
+  fps: 50.0
+  idx: 544
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.72
+  weight: 1.0
+- file: KIT/348/walking_run02_poses.motion
+  fps: 50.0
+  idx: 545
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/348/walking_run03_poses.motion
+  fps: 50.0
+  idx: 546
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.72
+  weight: 1.0
+- file: KIT/348/walking_run04_poses.motion
+  fps: 50.0
+  idx: 547
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.04
+  weight: 1.0
+- file: KIT/348/walking_run05_poses.motion
+  fps: 50.0
+  idx: 548
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.68
+  weight: 1.0
+- file: KIT/348/walking_run06_poses.motion
+  fps: 50.0
+  idx: 549
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.26
+  weight: 1.0
+- file: KIT/348/walking_run07_poses.motion
+  fps: 50.0
+  idx: 550
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.54
+  weight: 1.0
+- file: KIT/348/walking_run08_poses.motion
+  fps: 50.0
+  idx: 551
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.34
+  weight: 1.0
+- file: KIT/348/walking_run09_poses.motion
+  fps: 50.0
+  idx: 552
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.8
+  weight: 1.0
+- file: KIT/348/walking_run10_poses.motion
+  fps: 50.0
+  idx: 553
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.18
+  weight: 1.0
+- file: KIT/348/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 554
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.72
+  weight: 1.0
+- file: KIT/348/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 555
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.8
+  weight: 1.0
+- file: KIT/348/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 556
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.2
+  weight: 1.0
+- file: KIT/348/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 557
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.5
+  weight: 1.0
+- file: KIT/348/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 558
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.94
+  weight: 1.0
+- file: KIT/348/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 559
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.44
+  weight: 1.0
+- file: KIT/348/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 560
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.68
+  weight: 1.0
+- file: KIT/348/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 561
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/348/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 562
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.2
+  weight: 1.0
+- file: KIT/348/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 563
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.02
+  weight: 1.0
+- file: KIT/359/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 564
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.76
+  weight: 1.0
+- file: KIT/359/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 565
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: KIT/359/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 566
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.12
+  weight: 1.0
+- file: KIT/359/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 567
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.6
+  weight: 1.0
+- file: KIT/359/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 568
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.38
+  weight: 1.0
+- file: KIT/359/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 569
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.18
+  weight: 1.0
+- file: KIT/359/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 570
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.42
+  weight: 1.0
+- file: KIT/359/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 571
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.92
+  weight: 1.0
+- file: KIT/359/walking_fast10_poses.motion
+  fps: 50.0
+  idx: 572
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.42
+  weight: 1.0
+- file: KIT/359/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 573
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.26
+  weight: 1.0
+- file: KIT/359/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 574
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.02
+  weight: 1.0
+- file: KIT/359/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 575
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.28
+  weight: 1.0
+- file: KIT/359/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 576
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.12
+  weight: 1.0
+- file: KIT/359/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 577
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.22
+  weight: 1.0
+- file: KIT/359/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 578
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.08
+  weight: 1.0
+- file: KIT/359/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 579
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.86
+  weight: 1.0
+- file: KIT/359/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 580
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.2
+  weight: 1.0
+- file: KIT/359/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 581
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.64
+  weight: 1.0
+- file: KIT/359/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 582
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.18
+  weight: 1.0
+- file: KIT/359/walking_run01_poses.motion
+  fps: 50.0
+  idx: 583
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/359/walking_run04_poses.motion
+  fps: 50.0
+  idx: 584
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.52
+  weight: 1.0
+- file: KIT/359/walking_run05_poses.motion
+  fps: 50.0
+  idx: 585
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.28
+  weight: 1.0
+- file: KIT/359/walking_run06_poses.motion
+  fps: 50.0
+  idx: 586
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.16
+  weight: 1.0
+- file: KIT/359/walking_run07_poses.motion
+  fps: 50.0
+  idx: 587
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.02
+  weight: 1.0
+- file: KIT/359/walking_run08_poses.motion
+  fps: 50.0
+  idx: 588
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.98
+  weight: 1.0
+- file: KIT/359/walking_run09_poses.motion
+  fps: 50.0
+  idx: 589
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.54
+  weight: 1.0
+- file: KIT/359/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 590
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.22
+  weight: 1.0
+- file: KIT/359/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 591
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.28
+  weight: 1.0
+- file: KIT/359/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 592
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.3
+  weight: 1.0
+- file: KIT/359/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 593
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.28
+  weight: 1.0
+- file: KIT/359/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 594
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.54
+  weight: 1.0
+- file: KIT/359/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 595
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.36
+  weight: 1.0
+- file: KIT/359/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 596
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/359/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 597
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/359/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 598
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.2
+  weight: 1.0
+- file: KIT/359/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 599
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.08
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 600
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.24
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 601
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 602
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.4
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 603
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 604
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.44
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 605
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 606
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.4
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards08_poses.motion
+  fps: 50.0
+  idx: 607
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.42
+  weight: 1.0
+- file: KIT/4/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 608
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward01_poses.motion
+  fps: 50.0
+  idx: 609
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.78
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward02_poses.motion
+  fps: 50.0
+  idx: 610
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.32
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward03_poses.motion
+  fps: 50.0
+  idx: 611
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.7
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward04_poses.motion
+  fps: 50.0
+  idx: 612
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward05_poses.motion
+  fps: 50.0
+  idx: 613
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.9
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward06_poses.motion
+  fps: 50.0
+  idx: 614
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.16
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward07_poses.motion
+  fps: 50.0
+  idx: 615
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward08_poses.motion
+  fps: 50.0
+  idx: 616
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.2
+  weight: 1.0
+- file: KIT/4/WalkingStraightForward09_poses.motion
+  fps: 50.0
+  idx: 617
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.3
+  weight: 1.0
+- file: KIT/424/run01_poses.motion
+  fps: 50.0
+  idx: 618
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.08
+  weight: 1.0
+- file: KIT/424/run02_poses.motion
+  fps: 50.0
+  idx: 619
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.1
+  weight: 1.0
+- file: KIT/424/run03_poses.motion
+  fps: 50.0
+  idx: 620
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.06
+  weight: 1.0
+- file: KIT/424/run04_poses.motion
+  fps: 50.0
+  idx: 621
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.88
+  weight: 1.0
+- file: KIT/424/run05_poses.motion
+  fps: 50.0
+  idx: 622
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.82
+  weight: 1.0
+- file: KIT/424/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 623
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.94
+  weight: 1.0
+- file: KIT/424/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 624
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.92
+  weight: 1.0
+- file: KIT/424/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 625
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.48
+  weight: 1.0
+- file: KIT/424/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 626
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.64
+  weight: 1.0
+- file: KIT/424/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 627
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.72
+  weight: 1.0
+- file: KIT/424/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 628
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.46
+  weight: 1.0
+- file: KIT/424/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 629
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.26
+  weight: 1.0
+- file: KIT/424/walking_fast08_poses.motion
+  fps: 50.0
+  idx: 630
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.98
+  weight: 1.0
+- file: KIT/424/walking_fast09_poses.motion
+  fps: 50.0
+  idx: 631
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.66
+  weight: 1.0
+- file: KIT/424/walking_fast10_poses.motion
+  fps: 50.0
+  idx: 632
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.34
+  weight: 1.0
+- file: KIT/424/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 633
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.0
+  weight: 1.0
+- file: KIT/424/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 634
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.32
+  weight: 1.0
+- file: KIT/424/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 635
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.76
+  weight: 1.0
+- file: KIT/424/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 636
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.12
+  weight: 1.0
+- file: KIT/424/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 637
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.9
+  weight: 1.0
+- file: KIT/424/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 638
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.78
+  weight: 1.0
+- file: KIT/424/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 639
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/424/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 640
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.96
+  weight: 1.0
+- file: KIT/424/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 641
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.96
+  weight: 1.0
+- file: KIT/424/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 642
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.5
+  weight: 1.0
+- file: KIT/424/walking_run01_poses.motion
+  fps: 50.0
+  idx: 643
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.94
+  weight: 1.0
+- file: KIT/424/walking_run02_poses.motion
+  fps: 50.0
+  idx: 644
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2
+  weight: 1.0
+- file: KIT/424/walking_run03_poses.motion
+  fps: 50.0
+  idx: 645
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.82
+  weight: 1.0
+- file: KIT/424/walking_run04_poses.motion
+  fps: 50.0
+  idx: 646
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.98
+  weight: 1.0
+- file: KIT/424/walking_run05_poses.motion
+  fps: 50.0
+  idx: 647
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.06
+  weight: 1.0
+- file: KIT/424/walking_run06_poses.motion
+  fps: 50.0
+  idx: 648
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.54
+  weight: 1.0
+- file: KIT/424/walking_run07_poses.motion
+  fps: 50.0
+  idx: 649
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.72
+  weight: 1.0
+- file: KIT/424/walking_run08_poses.motion
+  fps: 50.0
+  idx: 650
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.34
+  weight: 1.0
+- file: KIT/424/walking_run09_poses.motion
+  fps: 50.0
+  idx: 651
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.3
+  weight: 1.0
+- file: KIT/424/walking_run10_poses.motion
+  fps: 50.0
+  idx: 652
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.68
+  weight: 1.0
+- file: KIT/424/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 653
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.58
+  weight: 1.0
+- file: KIT/424/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 654
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.02
+  weight: 1.0
+- file: KIT/424/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 655
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.34
+  weight: 1.0
+- file: KIT/424/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 656
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.48
+  weight: 1.0
+- file: KIT/424/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 657
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.44
+  weight: 1.0
+- file: KIT/424/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 658
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.36
+  weight: 1.0
+- file: KIT/424/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 659
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.02
+  weight: 1.0
+- file: KIT/424/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 660
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.58
+  weight: 1.0
+- file: KIT/424/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 661
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.46
+  weight: 1.0
+- file: KIT/424/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 662
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.84
+  weight: 1.0
+- file: KIT/425/walking_01_poses.motion
+  fps: 50.0
+  idx: 663
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.6
+  weight: 1.0
+- file: KIT/425/walking_02_poses.motion
+  fps: 50.0
+  idx: 664
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.22
+  weight: 1.0
+- file: KIT/425/walking_03_poses.motion
+  fps: 50.0
+  idx: 665
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.84
+  weight: 1.0
+- file: KIT/425/walking_04_poses.motion
+  fps: 50.0
+  idx: 666
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.46
+  weight: 1.0
+- file: KIT/425/walking_05_poses.motion
+  fps: 50.0
+  idx: 667
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.62
+  weight: 1.0
+- file: KIT/425/walking_06_poses.motion
+  fps: 50.0
+  idx: 668
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.2
+  weight: 1.0
+- file: KIT/425/walking_07_poses.motion
+  fps: 50.0
+  idx: 669
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.02
+  weight: 1.0
+- file: KIT/425/walking_08_poses.motion
+  fps: 50.0
+  idx: 670
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.78
+  weight: 1.0
+- file: KIT/425/walking_09_poses.motion
+  fps: 50.0
+  idx: 671
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.0
+  weight: 1.0
+- file: KIT/425/walking_10_poses.motion
+  fps: 50.0
+  idx: 672
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.78
+  weight: 1.0
+- file: KIT/425/walking_11_poses.motion
+  fps: 50.0
+  idx: 673
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.82
+  weight: 1.0
+- file: KIT/425/walking_fast01_poses.motion
+  fps: 50.0
+  idx: 674
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/425/walking_fast02_poses.motion
+  fps: 50.0
+  idx: 675
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.22
+  weight: 1.0
+- file: KIT/425/walking_fast03_poses.motion
+  fps: 50.0
+  idx: 676
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.24
+  weight: 1.0
+- file: KIT/425/walking_fast04_poses.motion
+  fps: 50.0
+  idx: 677
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.74
+  weight: 1.0
+- file: KIT/425/walking_fast05_poses.motion
+  fps: 50.0
+  idx: 678
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.64
+  weight: 1.0
+- file: KIT/425/walking_fast06_poses.motion
+  fps: 50.0
+  idx: 679
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.2
+  weight: 1.0
+- file: KIT/425/walking_fast07_poses.motion
+  fps: 50.0
+  idx: 680
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.94
+  weight: 1.0
+- file: KIT/425/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 681
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.7
+  weight: 1.0
+- file: KIT/425/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 682
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.32
+  weight: 1.0
+- file: KIT/425/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 683
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/425/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 684
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.88
+  weight: 1.0
+- file: KIT/425/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 685
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.82
+  weight: 1.0
+- file: KIT/425/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 686
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.54
+  weight: 1.0
+- file: KIT/425/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 687
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.18
+  weight: 1.0
+- file: KIT/425/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 688
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/425/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 689
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/425/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 690
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.72
+  weight: 1.0
+- file: KIT/425/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 691
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.54
+  weight: 1.0
+- file: KIT/425/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 692
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.14
+  weight: 1.0
+- file: KIT/425/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 693
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.7
+  weight: 1.0
+- file: KIT/425/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 694
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.38
+  weight: 1.0
+- file: KIT/425/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 695
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.12
+  weight: 1.0
+- file: KIT/425/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 696
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.72
+  weight: 1.0
+- file: KIT/425/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 697
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.54
+  weight: 1.0
+- file: KIT/425/walking_slow11_poses.motion
+  fps: 50.0
+  idx: 698
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.12
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 699
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.58
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 700
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.0
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 701
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.14
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 702
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.28
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 703
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.3
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 704
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.26
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 705
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.72
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards08_poses.motion
+  fps: 50.0
+  idx: 706
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 707
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.1
+  weight: 1.0
+- file: KIT/6/WalkingStraightBackwards10_poses.motion
+  fps: 50.0
+  idx: 708
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.92
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 709
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.2
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 710
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 711
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.94
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 712
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 713
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 714
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 715
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards08_poses.motion
+  fps: 50.0
+  idx: 716
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.98
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 717
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.38
+  weight: 1.0
+- file: KIT/7/WalkingStraightBackwards10_poses.motion
+  fps: 50.0
+  idx: 718
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.26
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards01_poses.motion
+  fps: 50.0
+  idx: 719
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.56
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards02_poses.motion
+  fps: 50.0
+  idx: 720
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.24
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards03_poses.motion
+  fps: 50.0
+  idx: 721
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.28
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards04_poses.motion
+  fps: 50.0
+  idx: 722
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards05_poses.motion
+  fps: 50.0
+  idx: 723
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.66
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards06_poses.motion
+  fps: 50.0
+  idx: 724
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.64
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards07_poses.motion
+  fps: 50.0
+  idx: 725
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.04
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards08_poses.motion
+  fps: 50.0
+  idx: 726
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.4
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards09_poses.motion
+  fps: 50.0
+  idx: 727
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.28
+  weight: 1.0
+- file: KIT/7/WalkingStraightForwards10_poses.motion
+  fps: 50.0
+  idx: 728
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.62
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 729
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.1
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 730
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 731
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.78
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 732
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.4
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 733
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 734
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.18
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 735
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.14
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards08_poses.motion
+  fps: 50.0
+  idx: 736
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.9
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 737
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.2
+  weight: 1.0
+- file: KIT/8/WalkingStraightBackwards10_1_poses.motion
+  fps: 50.0
+  idx: 738
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards01_poses.motion
+  fps: 50.0
+  idx: 739
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.44
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards02_poses.motion
+  fps: 50.0
+  idx: 740
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.54
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards03_poses.motion
+  fps: 50.0
+  idx: 741
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.6
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards04_poses.motion
+  fps: 50.0
+  idx: 742
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.7
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards05_poses.motion
+  fps: 50.0
+  idx: 743
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.18
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards06_poses.motion
+  fps: 50.0
+  idx: 744
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.52
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards07_poses.motion
+  fps: 50.0
+  idx: 745
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.08
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards08_poses.motion
+  fps: 50.0
+  idx: 746
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.16
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards09_poses.motion
+  fps: 50.0
+  idx: 747
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.4
+  weight: 1.0
+- file: KIT/8/WalkingStraightForwards10_poses.motion
+  fps: 50.0
+  idx: 748
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.3
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards01_poses.motion
+  fps: 50.0
+  idx: 749
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.1
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards02_poses.motion
+  fps: 50.0
+  idx: 750
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.8
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards03_poses.motion
+  fps: 50.0
+  idx: 751
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.9
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards04_poses.motion
+  fps: 50.0
+  idx: 752
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards05_poses.motion
+  fps: 50.0
+  idx: 753
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.76
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards06_poses.motion
+  fps: 50.0
+  idx: 754
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.92
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards07_poses.motion
+  fps: 50.0
+  idx: 755
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.3
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards09_poses.motion
+  fps: 50.0
+  idx: 756
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/9/WalkingStraightBackwards10_poses.motion
+  fps: 50.0
+  idx: 757
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards01_poses.motion
+  fps: 50.0
+  idx: 758
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.88
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards02_poses.motion
+  fps: 50.0
+  idx: 759
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.08
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards03_poses.motion
+  fps: 50.0
+  idx: 760
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.38
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards04_poses.motion
+  fps: 50.0
+  idx: 761
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.28
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards05_poses.motion
+  fps: 50.0
+  idx: 762
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.38
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards06_poses.motion
+  fps: 50.0
+  idx: 763
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.18
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards07_poses.motion
+  fps: 50.0
+  idx: 764
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.06
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards08_poses.motion
+  fps: 50.0
+  idx: 765
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.96
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards09_poses.motion
+  fps: 50.0
+  idx: 766
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.18
+  weight: 1.0
+- file: KIT/9/WalkingStraightForwards10_poses.motion
+  fps: 50.0
+  idx: 767
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.02
+  weight: 1.0
+- file: KIT/9/run01_poses.motion
+  fps: 50.0
+  idx: 768
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.92
+  weight: 1.0
+- file: KIT/9/run02_poses.motion
+  fps: 50.0
+  idx: 769
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.08
+  weight: 1.0
+- file: KIT/9/run03_poses.motion
+  fps: 50.0
+  idx: 770
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.02
+  weight: 1.0
+- file: KIT/9/run04_poses.motion
+  fps: 50.0
+  idx: 771
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 0.96
+  weight: 1.0
+- file: KIT/9/run05_poses.motion
+  fps: 50.0
+  idx: 772
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.0
+  weight: 1.0
+- file: KIT/9/walking_medium01_poses.motion
+  fps: 50.0
+  idx: 773
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.48
+  weight: 1.0
+- file: KIT/9/walking_medium02_poses.motion
+  fps: 50.0
+  idx: 774
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.88
+  weight: 1.0
+- file: KIT/9/walking_medium03_poses.motion
+  fps: 50.0
+  idx: 775
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.08
+  weight: 1.0
+- file: KIT/9/walking_medium04_poses.motion
+  fps: 50.0
+  idx: 776
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.42
+  weight: 1.0
+- file: KIT/9/walking_medium05_poses.motion
+  fps: 50.0
+  idx: 777
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.58
+  weight: 1.0
+- file: KIT/9/walking_medium06_poses.motion
+  fps: 50.0
+  idx: 778
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.56
+  weight: 1.0
+- file: KIT/9/walking_medium07_poses.motion
+  fps: 50.0
+  idx: 779
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.44
+  weight: 1.0
+- file: KIT/9/walking_medium08_poses.motion
+  fps: 50.0
+  idx: 780
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.88
+  weight: 1.0
+- file: KIT/9/walking_medium09_poses.motion
+  fps: 50.0
+  idx: 781
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.54
+  weight: 1.0
+- file: KIT/9/walking_medium10_poses.motion
+  fps: 50.0
+  idx: 782
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.84
+  weight: 1.0
+- file: KIT/9/walking_run01_poses.motion
+  fps: 50.0
+  idx: 783
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.82
+  weight: 1.0
+- file: KIT/9/walking_run02_poses.motion
+  fps: 50.0
+  idx: 784
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.72
+  weight: 1.0
+- file: KIT/9/walking_run03_poses.motion
+  fps: 50.0
+  idx: 785
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.18
+  weight: 1.0
+- file: KIT/9/walking_run04_poses.motion
+  fps: 50.0
+  idx: 786
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.86
+  weight: 1.0
+- file: KIT/9/walking_run05_poses.motion
+  fps: 50.0
+  idx: 787
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.56
+  weight: 1.0
+- file: KIT/9/walking_run06_poses.motion
+  fps: 50.0
+  idx: 788
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.38
+  weight: 1.0
+- file: KIT/9/walking_run07_poses.motion
+  fps: 50.0
+  idx: 789
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.0
+  weight: 1.0
+- file: KIT/9/walking_run08_poses.motion
+  fps: 50.0
+  idx: 790
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.2
+  weight: 1.0
+- file: KIT/9/walking_run09_poses.motion
+  fps: 50.0
+  idx: 791
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.16
+  weight: 1.0
+- file: KIT/9/walking_run10_poses.motion
+  fps: 50.0
+  idx: 792
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.2
+  weight: 1.0
+- file: KIT/9/walking_slow01_poses.motion
+  fps: 50.0
+  idx: 793
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.24
+  weight: 1.0
+- file: KIT/9/walking_slow02_poses.motion
+  fps: 50.0
+  idx: 794
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.98
+  weight: 1.0
+- file: KIT/9/walking_slow03_poses.motion
+  fps: 50.0
+  idx: 795
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.76
+  weight: 1.0
+- file: KIT/9/walking_slow04_poses.motion
+  fps: 50.0
+  idx: 796
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.66
+  weight: 1.0
+- file: KIT/9/walking_slow05_poses.motion
+  fps: 50.0
+  idx: 797
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.76
+  weight: 1.0
+- file: KIT/9/walking_slow06_poses.motion
+  fps: 50.0
+  idx: 798
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.62
+  weight: 1.0
+- file: KIT/9/walking_slow07_poses.motion
+  fps: 50.0
+  idx: 799
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.84
+  weight: 1.0
+- file: KIT/9/walking_slow08_poses.motion
+  fps: 50.0
+  idx: 800
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.78
+  weight: 1.0
+- file: KIT/9/walking_slow09_poses.motion
+  fps: 50.0
+  idx: 801
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.1
+  weight: 1.0
+- file: KIT/9/walking_slow10_poses.motion
+  fps: 50.0
+  idx: 802
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.42
+  weight: 1.0
+- file: SFU/0005/0005_BackwardsWalk001_poses.motion
+  fps: 30.0
+  idx: 803
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.333333333333334
+  weight: 1.0
+- file: SFU/0005/0005_Walking001_poses.motion
+  fps: 30.0
+  idx: 804
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 39.1
+  weight: 1.0
+- file: SFU/0008/0008_Walking001_poses.motion
+  fps: 30.0
+  idx: 805
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 26.9
+  weight: 1.0
+- file: SFU/0018/0018_Catwalk001_poses.motion
+  fps: 30.0
+  idx: 806
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.766666666666667
+  weight: 1.0

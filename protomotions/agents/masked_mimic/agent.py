@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: Copyright (c) 2025 The ProtoMotions Developers
+# SPDX-FileCopyrightText: Copyright (c) 2025-2026 The ProtoMotions Developers
 # SPDX-License-Identifier: Apache-2.0
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -316,7 +316,8 @@ class MaskedMimic(BaseAgent):
         # Store expert action
         self.experience_buffer.update_data("expert_actions", step, expert_action)
 
-        return action
+        output_td["action"] = action
+        return output_td
 
     def perform_optimization_step(self, batch_dict, batch_idx) -> Dict:
         # Update model
